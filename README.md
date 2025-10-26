@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Andy Corro Quezada
+- Matrícula: S25018136
+- Fecha: 26 / 10 / 2025
 
 ## 🎯 Objetivos
 

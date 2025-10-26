@@ -19,8 +19,12 @@ El más grande es 27
 
 2. ¿Importa si se usa < o <= al hacer comparaciones para determinar el número entero más pequeño? ¿Cuál usaste y por qué?
 
+    R. Sí importa, e importa mucho; usar el operador relacional adecuado puede marcar la diferencia entre generar resultados coherentes y erróneos. En este caso, tomé el operador "mayor igual que", de este modo podía evitarme problemas cuando dos valores tomaban el mismo valor.
+
 3. En el programa, probablemente usó una variable double o float para almacenar el promedio. Cambie el tipo de esa variable a entero. ¿El resultado es diferente de lo que observó anteriormente?
+
+    R. Claro que sí. Al no tener un promedio decimal, solo tomamos la parte entera y, por ejemplo, si nuestro resultado era "3.141592654", el resultado solo será 3.
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![alt text](image.png)
